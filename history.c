@@ -3,7 +3,6 @@
 /**
  * get_history_file - gets history file
  * @info: parameter struct
- *
  * Return: allocated string containg history file
  */
 
