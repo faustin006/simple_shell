@@ -3,7 +3,6 @@
 /**
  *_eputs - prints input string
  * @str: the string to be printed
- *
  * Return: Nothing
  */
 void _eputs(char *str)
